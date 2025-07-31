@@ -1,0 +1,24 @@
+{
+  "name": "repo-filtered",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianMarius/playwright-e2e-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabianMarius/playwright-e2e-tests/issues"
+  },
+  "homepage": "https://github.com/FabianMarius/playwright-e2e-tests#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}

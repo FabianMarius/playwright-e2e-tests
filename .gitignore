@@ -1,0 +1,18 @@
+# Folderele care nu trebuie urcate pe GitHub
+node_modules/
+test-results/
+package-lock.json
+.yarn/
+.pnpm/
+
+# Fisiere temporare
+*.log
+*.tmp
+
+# Config VS Code
+.vscode/
+
+# Alte fisiere generate automat sau inutile în repo
+.DS_Store
+Thumbs.db
+
